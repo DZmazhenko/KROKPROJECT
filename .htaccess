@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 AddDefaultCharset utf-8
+=======
+AddDefaultCharset utf-8
+>>>>>>> 7a4f5bc2522fd76f7a4de678efb2615d821638e5
 php_flag magic_quotes_gpc Off
